@@ -10,4 +10,3 @@ Data Scientist | IA Researcher | MSc in Applied Physics
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gallileugenesis&layout=compact" alt="Top Langs" />
   </a>
 </div>
-)
