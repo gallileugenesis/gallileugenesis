@@ -7,4 +7,4 @@ Data Scientist | IA Researcher | MSc in Applied Physics
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gallileugenesis&layout=compact&langs_count=7&theme=react" />
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gallileugenesis)](https://github.com/gallileugenesis/github-readme-stats)
+ 
