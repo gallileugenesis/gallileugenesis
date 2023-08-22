@@ -1,13 +1,7 @@
 # Gallileu Genesis
 Data Scientist | IA Researcher | MSc in Applied Physics
 
-
-<div style="display: flex; align-items: stretch; gap: 20px;">
-  <a href="https://github.com/gallileugenesis/github-readme-stats" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=gallileugenesis" alt="Anurag's GitHub stats" />
-  </a>
-  <a href="https://github.com/gallileugenesis" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gallileugenesis&layout=compact" alt="Top Langs" />
-  </a>
-</div>
-
+<div>
+  <a href="https://github.com/ellen2121">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
