@@ -23,5 +23,4 @@ Data Scientist | IA Researcher | MSc in Applied Physics
   <a href="mailto:galileugenesis@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCsI-xu-4FRT1_UbU66irHVA" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gallileugenesis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gallileugenesis/" target="_blank"><img src="https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg" target="_blank"></a>
 
